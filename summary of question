@@ -1,0 +1,30 @@
+summary of what each contains:
+
+SRE_Mock_Interview_Set1.md — 14 questions covering:
+
+SLI/SLO/SLA & Error Budgets
+Toil reduction
+Incident management & Postmortems
+High availability system design
+Circuit breakers
+Monitoring & Observability
+Alerting best practices
+Linux troubleshooting
+Kubernetes CrashLoopBackOff debugging
+Behavioral STAR questions (3 scenarios)
+Rapid fire Q&A
+
+
+SRE_Mock_Interview_Set2.md — 20 questions covering:
+
+Networking deep dive (DNS, TCP/UDP, Load balancers)
+Database replication, connection pooling, SQL vs NoSQL
+Kubernetes (probes, DaemonSet, rolling updates, rollback)
+Security (least privilege, mTLS)
+Caching strategies & cache invalidation
+Traffic spike handling
+Deployment debugging (error rate spike, memory leak)
+Blue/Green vs Canary deployments
+Advanced system design (alerting system, deployment pipeline)
+Advanced behavioral scenarios
+Full rapid fire table
